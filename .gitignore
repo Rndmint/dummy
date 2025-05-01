@@ -1,0 +1,25 @@
+# === Java and Maven ===
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+*.log
+*.tmp
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# === IntelliJ IDEA ===
+.idea/
+*.iws
+*.ipr
+*.iml
+out/
+
+# === VS Code ===
+.vscode/
+
+# === Workflow Folders ===
+archive/
+spike/
+docs/
